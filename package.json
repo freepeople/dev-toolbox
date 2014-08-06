@@ -25,6 +25,7 @@
   "dependencies": {},
   "devDependencies": {
     "domtastic": "^0.7.6",
-    "lodash-node": "^2.4.1"
+    "lodash-node": "^2.4.1",
+    "q": "^1.0.1"
   }
 }
