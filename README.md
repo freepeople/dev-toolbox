@@ -1,9 +1,10 @@
 Dev Toolbox
 ===========
+[![License MIT](http://img.shields.io/npm/l/devtools.svg?style=flat)](https://github.com/freepeople/dev-toolbox/blob/master/LICENSE)
+[![devDependency Status](http://img.shields.io/david/dev/freepeople/dev-toolbox.svg?style=flat)](https://david-dm.org/freepeople/dev-toolbox#info=devDependencies)
+
 A set of tools for internal use, either from [npm](https://www.npmjs.org/) or [home-grown](https://github.com/freepeople/home-grown)
 
-[![License MIT](http://img.shields.io/npm/l/devtools.svg?style=flat)](https://github.com/freepeople/dev-toolbox/blob/master/LICENSE) &nbsp;
-[![devDependency Status](http://img.shields.io/david/dev/freepeople/dev-toolbox.svg?style=flat)](https://david-dm.org/freepeople/dev-toolbox#info=devDependencies)
 
 Current Tools in Toolbox
 ========================
