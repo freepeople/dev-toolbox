@@ -1,0 +1,30 @@
+{
+  "name": "dev-toolbox",
+  "version": "0.0.1",
+  "description": "Tools for making development more fun, just require what you need",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/freepeople/dev-toolbox.git"
+  },
+  "keywords": [
+    "tools",
+    "toolbox",
+    "npm"
+  ],
+  "private": true,
+  "author": "David Annopolsky <dannopolsky@freepeople.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/freepeople/dev-toolbox/issues"
+  },
+  "homepage": "https://github.com/freepeople/dev-toolbox",
+  "dependencies": {},
+  "devDependencies": {
+    "domtastic": "^0.7.6",
+    "lodash-node": "^2.4.1"
+  }
+}
