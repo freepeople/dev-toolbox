@@ -14,14 +14,22 @@ Below is the set of tools currently being explored
     ├── browserify
     ├── domtastic
     ├── gulp
+    ├── hapi
     ├── lodash-node
-    └── q
+    ├── q
+    ├── socket.io
+    ├── tape
+    └── testling
 
 + __Browserify__ requiring modules in the browser the node way.
 + __Domtastic__ small set of methods for DOM manipulation and traversal 
 + __Gulp__ javascript build tool using streams
++ __Hapi__ http server framework, no middle-ware no problem :)
 + __Lodash-node__ require what you need, for collections, functions, objects, arrays, and other utils
 + __Q__ promise library
++ __Socket.io__ for real time messaging
++ __Tape__ minimal test harness for node and browser
++ __Testling__ running testing in a headless browser, can be installed globally.
 
 
 
