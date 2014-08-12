@@ -21,6 +21,7 @@ Below is the set of tools currently being explored
     ├── q
     ├── rivets
     ├── socket.io
+    ├── store
     ├── tape
     └── testling
 
@@ -33,6 +34,7 @@ Below is the set of tools currently being explored
 + __Q__ promise library.
 + __Rivets__ Declarative data binding + templating solution.
 + __Socket.io__ for real time messaging.
++ __Store__ Cross browser localstorage wrapper.
 + __Tape__ minimal test harness for node and browser.
 + __Testling__ running testing in a headless browser, can be installed globally.
 
