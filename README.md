@@ -17,26 +17,28 @@ Below is the set of tools currently being explored
     ├── gulp
     ├── hapi
     ├── lodash-node
+    ├── rest
     ├── nodemon
-    ├── q
     ├── rivets
     ├── socket.io
     ├── store
     ├── tape
-    └── testling
+    ├── testling
+    └── when
 
-+ __Browserify__ requiring modules in the browser the node way.
-+ __Domtastic__ small set of methods for DOM manipulation and traversal.
-+ __Gulp__ javascript build tool using streams.
-+ __Hapi__ http server framework, no middle-ware no problem :)
-+ __Lodash-node__ require what you need, for collections, functions, objects, arrays, and other utils.
-+ __Nodemon__ watches any files and reloads server, install it globally `npm install -g nodemon`
-+ __Q__ promise library.
-+ __Rivets__ Declarative data binding + templating solution.
-+ __Socket.io__ for real time messaging.
-+ __Store__ Cross browser localstorage wrapper.
-+ __Tape__ minimal test harness for node and browser.
-+ __Testling__ running testing in a headless browser, can be installed globally.
++ [__Browserify__](https://www.npmjs.org/package/browserify) requiring modules in the browser the node way.
++ [__Domtastic__](https://www.npmjs.org/package/domtastic) small set of methods for DOM manipulation and traversal.
++ [__Gulp__](https://www.npmjs.org/package/gulp) javascript build tool using streams.
++ [__Hapi__](https://www.npmjs.org/package/hapi) http server framework, no middle-ware no problem :)
++ [__Lodash-node__](https://www.npmjs.org/package/lodash-node) require what you need, for collections, functions, objects, arrays, and other utils.
++ [__Rest__](https://www.npmjs.org/package/rest)  RESTful HTTP client library, isomorphic module for node & client
++ [__Nodemon__](https://www.npmjs.org/package/nodemon) watches any files and reloads server, install it globally `npm install -g nodemon`
++ [__Rivets__](https://www.npmjs.org/package/rivets) Declarative data binding + templating solution.
++ [__Socket.io__](https://www.npmjs.org/package/socket.io) for real time messaging.
++ [__Store__](https://www.npmjs.org/package/store) Cross browser localstorage wrapper.
++ [__Tape__](https://www.npmjs.org/package/tape) minimal test harness for node and browser.
++ [__Testling__](https://www.npmjs.org/package/testling) running testing in a headless browser, can be installed globally.
++ [__When__](https://www.npmjs.org/package/when) A lightweight Promises/A+ module & async utils.
 
 
 
